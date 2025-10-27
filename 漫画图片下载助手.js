@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         漫画图片下载助手（实时截图版）
+// @name         漫画图片下载助手
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  从 Kindle 阅读器中实时截取当前漫画画面并保存
